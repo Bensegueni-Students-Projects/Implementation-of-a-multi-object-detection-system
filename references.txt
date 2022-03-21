@@ -26,6 +26,7 @@ file:///C:/Users/PC/AppData/Local/Temp/sensors-22-01245-v2.pdf
 Dataset vehicle-logo-recognition
 https://github.com/UniqueAndys/vehicle-logo-recognition
 https://filippofilip95.github.io/car-logos-dataset-web/#/logos
+https://www.kaggle.com/code/binhminhs10/car-logo-cnn-augm/notebook
 
 Vehicle Registration Plate Recognition
 http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_salah.pdf
