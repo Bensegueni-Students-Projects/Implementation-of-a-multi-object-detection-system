@@ -38,3 +38,6 @@ https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-i
 Vehicles ID :
 https://paperswithcode.com/dataset/vehicleid
 https://github.com/filippofilip95/car-logos-dataset
+
+Improve Perfromances :
+https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7
