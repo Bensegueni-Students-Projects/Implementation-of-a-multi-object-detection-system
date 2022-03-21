@@ -48,3 +48,6 @@ https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neu
 
 Object Detection System Based on Convolution Neural Networks Using Single Shot Multi-Box Detector :
 https://www.sciencedirect.com/science/article/pii/S187705092031276X
+
+An improved object detection algorithm based on multi-scaled and deformable convolutional neural networks :
+https://hcis-journal.springeropen.com/articles/10.1186/s13673-020-00219-9
