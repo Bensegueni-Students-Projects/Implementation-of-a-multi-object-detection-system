@@ -21,3 +21,8 @@ https://www.scitepress.org/Papers/2021/102292/102292.pdf
 
 Vehicle Registration Plate Recognition
 http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_salah.pdf
+
+YOLOv3
+https://viso.ai/deep-learning/yolov3-overview/
+https://pjreddie.com/darknet/yolo/
+
