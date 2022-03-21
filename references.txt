@@ -46,3 +46,5 @@ https://github.com/filippofilip95/car-logos-dataset
 Improve Perfromances :
 https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7
 
+Object Detection System Based on Convolution Neural Networks Using Single Shot Multi-Box Detector :
+https://www.sciencedirect.com/science/article/pii/S187705092031276X
