@@ -35,6 +35,9 @@ https://pjreddie.com/darknet/yolo/
 https://github.com/ultralytics/yolov5/issues/475
 https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
+car_logo_CNN
+https://www.kaggle.com/code/binhminhs10/car-logo-cnn-augm/notebook
+
 Vehicles ID :
 https://paperswithcode.com/dataset/vehicleid
 https://github.com/filippofilip95/car-logos-dataset
