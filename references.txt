@@ -18,6 +18,13 @@ https://github.com/mouad12345/License_Plates_of_Algeria_Dataset
 extraction plate detection :
 https://www.youtube.com/watch?v=ZJUOnUTVUD8
 https://www.scitepress.org/Papers/2021/102292/102292.pdf
+https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
+
+Article_Towards Automatic License Plate Detection
+file:///C:/Users/PC/AppData/Local/Temp/sensors-22-01245-v2.pdf
+
+Dataset vehicle-logo-recognition
+https://github.com/UniqueAndys/vehicle-logo-recognition
 
 Vehicle Registration Plate Recognition
 http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_salah.pdf
