@@ -25,4 +25,5 @@ http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_sal
 YOLOv3
 https://viso.ai/deep-learning/yolov3-overview/
 https://pjreddie.com/darknet/yolo/
-
+https://github.com/ultralytics/yolov5/issues/475
+https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
