@@ -1,1 +1,20 @@
+Distributed Training TensorFlow V2 :
+https://github.com/lambdal/TensorFlow2-tutorial/tree/master/05-distributed-training
+https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/
 
+Article : A Performance Evaluation of Convolutional Neural Networks for Face Anti Spoofing
+https://arxiv.org/pdf/1711.05979.pdf
+
+Distributed Learning with Horovod :
+https://towardsdatascience.com/distributed-deep-learning-with-horovod-2d1eea004cb2
+
+Vehicle Detection Image Set :
+https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set/code
+
+License Plate detection :
+https://www.kaggle.com/andrewmvd/car-plate-detection?select=images
+https://github.com/mouad12345/License_Plates_of_Algeria_Dataset
+
+extraction plate detection :
+https://www.youtube.com/watch?v=ZJUOnUTVUD8
+https://www.scitepress.org/Papers/2021/102292/102292.pdf
