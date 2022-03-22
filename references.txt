@@ -82,3 +82,6 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 
 Presentation CNN :
 http://ubee.enseeiht.fr/dokuwiki/lib/exe/fetch.php?media=public:res-ens:dmsml18:3_cnn.pdf
+
+Display Deep Learning Model Training History in Keras :
+https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
