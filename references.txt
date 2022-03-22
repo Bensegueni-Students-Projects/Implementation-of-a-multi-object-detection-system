@@ -85,3 +85,6 @@ http://ubee.enseeiht.fr/dokuwiki/lib/exe/fetch.php?media=public:res-ens:dmsml18:
 
 Display Deep Learning Model Training History in Keras :
 https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+
+Mask R-CNN :
+https://makina-corpus.com/sig-webmapping/extraction-dobjets-pour-la-cartographie-par-deep-learning-choix-du-modele
