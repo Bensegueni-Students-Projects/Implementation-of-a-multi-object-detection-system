@@ -58,3 +58,5 @@ https://mdpi-res.com/d_attachment/electronics/electronics-11-00563/article_deplo
 
 Real-time OCR :
 https://github.com/LaggyHammer/real-time-OCR
+
+https://arxiv.org/ftp/arxiv/papers/1802/1802.02608.pdf
