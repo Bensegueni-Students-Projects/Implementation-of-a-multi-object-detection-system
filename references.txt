@@ -91,3 +91,5 @@ https://makina-corpus.com/sig-webmapping/extraction-dobjets-pour-la-cartographie
 
 Choice of Parameters :
 https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b
+
+https://makina-corpus.com/sig-webmapping/extraction-dobjets-pour-la-cartographie-par-deep-learning-choix-du-modele
