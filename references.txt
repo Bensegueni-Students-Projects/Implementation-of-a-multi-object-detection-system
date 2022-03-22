@@ -64,3 +64,21 @@ https://arxiv.org/ftp/arxiv/papers/1802/1802.02608.pdf
 
 Document Classification Using Deep Learning :
 https://learningdeepai.blogspot.com/2018/06/documentclassification-using-deep.html
+
+Analyse d’images et reconnaissance d’objets pour les besoins de la Police cantonale :
+https://doc.rero.ch/record/329755/files/TB_Hamouti_Aur_lien_Analyse_images_et_reconnaissance_objets.pdf
+
+Introduction au Deep Learning :
+http://samm.univ-paris1.fr/IMG/pdf/coursdeep4.pdf
+
+Réseaux de neurones et deep learning : Utilisation et méthodologie :
+https://indico.in2p3.fr/event/17858/attachments/49454/66359/Deep_Learning_Seance_4.pdf
+
+Reconnaissance de catégories d’objets et d’instances d’objets à l’aide de représentations locales :
+https://tel.archives-ouvertes.fr/tel-00305664/document
+
+Cours CNN OpenClassrooms :
+https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5083336-decouvrez-les-differentes-couches-dun-cnn
+
+Presentation CNN :
+http://ubee.enseeiht.fr/dokuwiki/lib/exe/fetch.php?media=public:res-ens:dmsml18:3_cnn.pdf
