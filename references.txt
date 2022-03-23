@@ -149,3 +149,12 @@ https://ichi.pro/fr/une-breve-histoire-de-la-detection-d-objet-plus-rapide-de-r-
 
 Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code :
 https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff
+
+R-CNN vs Fast R-CNN vs Faster R-CNN
+https://www.geeksforgeeks.org/r-cnn-vs-fast-r-cnn-vs-faster-r-cnn-ml/
+
+Comparison of YOLO v3, Faster R-CNN, and SSD for Real-Time :
+https://assets.researchsquare.com/files/rs-668895/v1_covered.pdf?c=1631875157
+
+YOLO vs Faster RCNN :
+https://everitt257.github.io/post/2018/08/10/object_detection.html
