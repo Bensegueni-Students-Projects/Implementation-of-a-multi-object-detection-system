@@ -109,6 +109,8 @@ https://github.com/matterport/Mask_RCNN
 
 Faster R-CNN :
 https://github.com/rbgirshick/py-faster-rcnn
+https://github.com/endernewton/tf-faster-rcnn
+https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN
 
 Training Faster R-CNN :
 https://www.dropbox.com/s/xtr4yd4i5e0vw8g/iccv15_tutorial_training_rbg.pdf?dl=0
@@ -118,3 +120,9 @@ https://revues.imist.ma/index.php/RMT/article/download/12689/7383
 
 Hyperas :
 https://github.com/maxpumperla/hyperas
+
+Comparing R-CNN models :
+https://indiantechwarrior.com/building-faster-r-cnn-on-tensorflow/
+
+Article Training Faster R-CNN :
+https://pub.towardsai.net/training-faster-r-cnn-using-tensorflow-object-detection-api-with-a-custom-dataset-88dd525666fd
