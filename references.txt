@@ -33,6 +33,7 @@ http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_sal
 
 YOLOv3
 https://viso.ai/deep-learning/yolov3-overview/
+
 https://pjreddie.com/darknet/yolo/
 https://github.com/ultralytics/yolov5/issues/475
 https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
@@ -158,3 +159,6 @@ https://assets.researchsquare.com/files/rs-668895/v1_covered.pdf?c=1631875157
 
 YOLO vs Faster RCNN :
 https://everitt257.github.io/post/2018/08/10/object_detection.html
+
+Localisation Indoor Basé Sur La Détection Deep Learning
+https://www.theses-algerie.com/2219104968597570/memoire-de-master/universite-mohamed-khider---biskra/localisation-indoor-bas%C3%A9-sur-la-d%C3%A9tection-deep-learning?size=n_10_n
