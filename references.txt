@@ -106,3 +106,9 @@ Hyper-parameters :
 
 Mask R-CNN :
 https://github.com/matterport/Mask_RCNN
+
+Faster R-CNN :
+https://github.com/rbgirshick/py-faster-rcnn
+
+Training Faster R-CNN :
+https://www.dropbox.com/s/xtr4yd4i5e0vw8g/iccv15_tutorial_training_rbg.pdf?dl=0
