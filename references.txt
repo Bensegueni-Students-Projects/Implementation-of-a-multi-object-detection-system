@@ -146,3 +146,6 @@ https://fr.coursera.org/lecture/advanced-computer-vision-with-tensorflow/faster-
 
 fps-faster R-CNN:
 https://ichi.pro/fr/une-breve-histoire-de-la-detection-d-objet-plus-rapide-de-r-cnn-91852028121230
+
+Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code :
+https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff
