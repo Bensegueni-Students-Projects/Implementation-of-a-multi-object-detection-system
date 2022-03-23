@@ -132,4 +132,8 @@ https://arxiv.org/pdf/1506.01497.pdf
 
 https://makina-corpus.com/
 
-Nouvelle approche neuronale Faster R-CNNpour la recherche d’instances d’images:https://revues.imist.ma/index.php/RMT/article/download/12689/7383
+Nouvelle approche neuronale Faster R-CNNpour la recherche d’instances d’images(fr):
+https://revues.imist.ma/index.php/RMT/article/download/12689/7383
+
+Reconnaissance de caractères sur des reçus à l’aide du Faster R-CNN (fr);
+https://ledatascientist.com/detection-recu-rcnn/
