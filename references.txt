@@ -140,3 +140,6 @@ https://ledatascientist.com/detection-recu-rcnn/
 
 training faster R-CNN (fr) :
 https://ichi.pro/fr/entrainement-d-un-modele-de-detection-d-objets-tensorflow-faster-r-cnn-sur-votre-propre-jeu-de-donnees-197574760893805
+
+Cours Faster RCNN :
+https://fr.coursera.org/lecture/advanced-computer-vision-with-tensorflow/faster-r-cnn-VHfKu
