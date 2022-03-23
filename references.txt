@@ -115,3 +115,6 @@ https://www.dropbox.com/s/xtr4yd4i5e0vw8g/iccv15_tutorial_training_rbg.pdf?dl=0
 
 Article sur Faster R-CNN :
 https://revues.imist.ma/index.php/RMT/article/download/12689/7383
+
+Hyperas :
+https://github.com/maxpumperla/hyperas
