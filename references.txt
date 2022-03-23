@@ -143,3 +143,6 @@ https://ichi.pro/fr/entrainement-d-un-modele-de-detection-d-objets-tensorflow-fa
 
 Cours Faster RCNN :
 https://fr.coursera.org/lecture/advanced-computer-vision-with-tensorflow/faster-r-cnn-VHfKu
+
+fps-faster R-CNN:
+https://ichi.pro/fr/une-breve-histoire-de-la-detection-d-objet-plus-rapide-de-r-cnn-91852028121230
