@@ -137,3 +137,6 @@ https://revues.imist.ma/index.php/RMT/article/download/12689/7383
 
 Reconnaissance de caractères sur des reçus à l’aide du Faster R-CNN (fr);
 https://ledatascientist.com/detection-recu-rcnn/
+
+training faster R-CNN (fr) :
+https://ichi.pro/fr/entrainement-d-un-modele-de-detection-d-objets-tensorflow-faster-r-cnn-sur-votre-propre-jeu-de-donnees-197574760893805
