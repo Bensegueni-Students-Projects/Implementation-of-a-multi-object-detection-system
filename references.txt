@@ -126,3 +126,7 @@ https://indiantechwarrior.com/building-faster-r-cnn-on-tensorflow/
 
 Article Training Faster R-CNN :
 https://pub.towardsai.net/training-faster-r-cnn-using-tensorflow-object-detection-api-with-a-custom-dataset-88dd525666fd
+
+
+
+https://makina-corpus.com/
