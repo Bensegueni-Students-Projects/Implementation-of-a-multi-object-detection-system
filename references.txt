@@ -57,9 +57,6 @@ https://hcis-journal.springeropen.com/articles/10.1186/s13673-020-00219-9
 Deep Learning-Based Object Detection and Scene Perception under Bad Weather Conditions :
 https://mdpi-res.com/d_attachment/electronics/electronics-11-00563/article_deploy/electronics-11-00563-v2.pdf
 
-Real-time OCR :
-https://github.com/LaggyHammer/real-time-OCR
-
 Deep Versus Wide Convolutional Neural Networks for Object Recognition on Neuromorphic System :
 https://arxiv.org/ftp/arxiv/papers/1802/1802.02608.pdf
 
