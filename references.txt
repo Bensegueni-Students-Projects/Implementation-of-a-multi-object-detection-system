@@ -159,3 +159,6 @@ https://everitt257.github.io/post/2018/08/10/object_detection.html
 
 Localisation Indoor Basé Sur La Détection Deep Learning
 https://www.theses-algerie.com/2219104968597570/memoire-de-master/universite-mohamed-khider---biskra/localisation-indoor-bas%C3%A9-sur-la-d%C3%A9tection-deep-learning?size=n_10_n
+
+A highly efficient algorithm for fast motion detection and estimation using parallel processing :
+http://rdoc.univ-sba.dz/bitstream/123456789/1318/3/D_Inf_ELBAHRI_Mohamed.pdf
