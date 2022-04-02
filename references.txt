@@ -66,6 +66,10 @@ https://learningdeepai.blogspot.com/2018/06/documentclassification-using-deep.ht
 Analyse d’images et reconnaissance d’objets pour les besoins de la Police cantonale :
 https://doc.rero.ch/record/329755/files/TB_Hamouti_Aur_lien_Analyse_images_et_reconnaissance_objets.pdf
 
+Object Detection with YOLOv3 using Keras :
+https://towardsdatascience.com/object-detection-using-yolov3-using-keras-80bf35e61ce1
+
+
 Introduction au Deep Learning :
 http://samm.univ-paris1.fr/IMG/pdf/coursdeep4.pdf
 
@@ -101,6 +105,9 @@ Metrics :
 
 Hyper-parameters :
 
+
+Anchor boxes :
+https://towardsdatascience.com/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9
 
 Mask R-CNN :
 https://github.com/matterport/Mask_RCNN
@@ -162,3 +169,16 @@ https://www.theses-algerie.com/2219104968597570/memoire-de-master/universite-moh
 
 A highly efficient algorithm for fast motion detection and estimation using parallel processing :
 http://rdoc.univ-sba.dz/bitstream/123456789/1318/3/D_Inf_ELBAHRI_Mohamed.pdf
+
+Object Detection with YOLOv3 using Keras :
+https://towardsdatascience.com/object-detection-using-yolov3-using-keras-80bf35e61ce1
+
+All you need to know about YOLO v3 :
+https://dev.to/afrozchakure/all-you-need-to-know-about-yolo-v3-you-only-look-once-e4m
+
+How to Perform Object Detection With YOLOv3 in Keras :
+https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
+
+end-to-end deep learning model :
+
+
