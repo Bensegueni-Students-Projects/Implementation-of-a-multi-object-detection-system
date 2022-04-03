@@ -1,83 +1,8 @@
-Distributed Training TensorFlow V2 :
-https://github.com/lambdal/TensorFlow2-tutorial/tree/master/05-distributed-training
-https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/
-
-Article : A Performance Evaluation of Convolutional Neural Networks for Face Anti Spoofing
-https://arxiv.org/pdf/1711.05979.pdf
-
-Distributed Learning with Horovod :
-https://towardsdatascience.com/distributed-deep-learning-with-horovod-2d1eea004cb2
-
-Vehicle Detection Image Set :
-https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set/code
-
-License Plate detection :
-https://www.kaggle.com/andrewmvd/car-plate-detection?select=images
-https://github.com/mouad12345/License_Plates_of_Algeria_Dataset
-
-extraction plate detection :
-https://www.youtube.com/watch?v=ZJUOnUTVUD8
-https://www.scitepress.org/Papers/2021/102292/102292.pdf
-https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
-
-Article_Towards Automatic License Plate Detection
-file:///C:/Users/PC/AppData/Local/Temp/sensors-22-01245-v2.pdf
-
-Dataset vehicle-logo-recognition
-https://github.com/UniqueAndys/vehicle-logo-recognition
-https://filippofilip95.github.io/car-logos-dataset-web/#/logos
-https://www.kaggle.com/code/binhminhs10/car-logo-cnn-augm/notebook
-
-Vehicle Registration Plate Recognition
-http://archives.univ-biskra.dz/bitstream/123456789/13194/1/ganibardi_mohamed_salah.pdf
-
-YOLOv3
-https://viso.ai/deep-learning/yolov3-overview/
-
-https://pjreddie.com/darknet/yolo/
-https://github.com/ultralytics/yolov5/issues/475
-https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
-
-car_logo_CNN
-https://www.kaggle.com/code/binhminhs10/car-logo-cnn-augm/notebook
-
-Vehicles ID :
-https://paperswithcode.com/dataset/vehicleid
-https://github.com/filippofilip95/car-logos-dataset
-
-Improve Perfromances :
-https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7
-
-Object Detection System Based on Convolution Neural Networks Using Single Shot Multi-Box Detector :
-https://www.sciencedirect.com/science/article/pii/S187705092031276X
-
-An improved object detection algorithm based on multi-scaled and deformable convolutional neural networks :
-https://hcis-journal.springeropen.com/articles/10.1186/s13673-020-00219-9
-
-Deep Learning-Based Object Detection and Scene Perception under Bad Weather Conditions :
-https://mdpi-res.com/d_attachment/electronics/electronics-11-00563/article_deploy/electronics-11-00563-v2.pdf
-
-Deep Versus Wide Convolutional Neural Networks for Object Recognition on Neuromorphic System :
-https://arxiv.org/ftp/arxiv/papers/1802/1802.02608.pdf
-
-Document Classification Using Deep Learning :
-https://learningdeepai.blogspot.com/2018/06/documentclassification-using-deep.html
-
-Analyse d’images et reconnaissance d’objets pour les besoins de la Police cantonale :
-https://doc.rero.ch/record/329755/files/TB_Hamouti_Aur_lien_Analyse_images_et_reconnaissance_objets.pdf
-
-Object Detection with YOLOv3 using Keras :
-https://towardsdatascience.com/object-detection-using-yolov3-using-keras-80bf35e61ce1
-
-
 Introduction au Deep Learning :
 http://samm.univ-paris1.fr/IMG/pdf/coursdeep4.pdf
 
 Réseaux de neurones et deep learning : Utilisation et méthodologie :
 https://indico.in2p3.fr/event/17858/attachments/49454/66359/Deep_Learning_Seance_4.pdf
-
-Reconnaissance de catégories d’objets et d’instances d’objets à l’aide de représentations locales :
-https://tel.archives-ouvertes.fr/tel-00305664/document
 
 Cours CNN OpenClassrooms :
 https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5083336-decouvrez-les-differentes-couches-dun-cnn
@@ -85,17 +10,56 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 Presentation CNN :
 http://ubee.enseeiht.fr/dokuwiki/lib/exe/fetch.php?media=public:res-ens:dmsml18:3_cnn.pdf
 
-Display Deep Learning Model Training History in Keras :
-https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 
-Mask R-CNN :
-https://makina-corpus.com/sig-webmapping/extraction-dobjets-pour-la-cartographie-par-deep-learning-choix-du-modele
+
+Distributed Training TensorFlow V2 :
+https://github.com/lambdal/TensorFlow2-tutorial/tree/master/05-distributed-training
+https://lambdalabs.com/blog/tensorflow-2-0-tutorial-05-distributed-training-multi-node/
+
+Article : Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPU
+https://arxiv.org/pdf/1711.05979.pdf
+
+License Plate detection :
+https://www.kaggle.com/andrewmvd/car-plate-detection?select=images
+https://github.com/mouad12345/License_Plates_of_Algeria_Dataset
+
+extraction plate detection :
+https://www.scitepress.org/Papers/2021/102292/102292.pdf
+https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
+
+YOLOv3 :
+https://viso.ai/deep-learning/yolov3-overview/
+https://pjreddie.com/darknet/yolo/
+https://github.com/ultralytics/yolov5/issues/475
+https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
+
+Improving Performance of Convolutional Neural Network :
+https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7
 
 Choice of Parameters :
 https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b
-
 https://makina-corpus.com/sig-webmapping/extraction-dobjets-pour-la-cartographie-par-deep-learning-choix-du-modele
 https://towardsdatascience.com/top-5-layers-you-can-always-come-across-in-any-convolutional-neural-network-c03acdc52bd7
+
+
+Object Detection System Based on Convolution Neural Networks Using Single Shot Multi-Box Detector :
+https://www.sciencedirect.com/science/article/pii/S187705092031276X
+
+An improved object detection algorithm based on multi-scaled and deformable convolutional neural networks :
+https://hcis-journal.springeropen.com/articles/10.1186/s13673-020-00219-9
+
+Deep Versus Wide Convolutional Neural Networks for Object Recognition on Neuromorphic System :
+https://arxiv.org/ftp/arxiv/papers/1802/1802.02608.pdf
+
+Analyse d’images et reconnaissance d’objets pour les besoins de la Police cantonale :
+https://doc.rero.ch/record/329755/files/TB_Hamouti_Aur_lien_Analyse_images_et_reconnaissance_objets.pdf
+
+Object Detection with YOLOv3 using Keras :
+https://towardsdatascience.com/object-detection-using-yolov3-using-keras-80bf35e61ce1
+
+Display Deep Learning Model Training History in Keras :
+https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+
 
 Optimizers :
 
@@ -109,51 +73,11 @@ Hyper-parameters :
 Anchor boxes :
 https://towardsdatascience.com/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9
 
-Mask R-CNN :
-https://github.com/matterport/Mask_RCNN
-
-Faster R-CNN :
-https://github.com/rbgirshick/py-faster-rcnn
-https://github.com/endernewton/tf-faster-rcnn
-https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN
-
-Training Faster R-CNN :
-https://www.dropbox.com/s/xtr4yd4i5e0vw8g/iccv15_tutorial_training_rbg.pdf?dl=0
-
-Article sur Faster R-CNN :
-https://revues.imist.ma/index.php/RMT/article/download/12689/7383
-
 Hyperas :
 https://github.com/maxpumperla/hyperas
 
 Comparing R-CNN models :
 https://indiantechwarrior.com/building-faster-r-cnn-on-tensorflow/
-
-Article Training Faster R-CNN :
-https://pub.towardsai.net/training-faster-r-cnn-using-tensorflow-object-detection-api-with-a-custom-dataset-88dd525666fd
-
-Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks :
-https://arxiv.org/pdf/1506.01497.pdf
-
-https://makina-corpus.com/
-
-Nouvelle approche neuronale Faster R-CNNpour la recherche d’instances d’images(fr):
-https://revues.imist.ma/index.php/RMT/article/download/12689/7383
-
-Reconnaissance de caractères sur des reçus à l’aide du Faster R-CNN (fr);
-https://ledatascientist.com/detection-recu-rcnn/
-
-training faster R-CNN (fr) :
-https://ichi.pro/fr/entrainement-d-un-modele-de-detection-d-objets-tensorflow-faster-r-cnn-sur-votre-propre-jeu-de-donnees-197574760893805
-
-Cours Faster RCNN :
-https://fr.coursera.org/lecture/advanced-computer-vision-with-tensorflow/faster-r-cnn-VHfKu
-
-fps-faster R-CNN:
-https://ichi.pro/fr/une-breve-histoire-de-la-detection-d-objet-plus-rapide-de-r-cnn-91852028121230
-
-Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code :
-https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff
 
 R-CNN vs Fast R-CNN vs Faster R-CNN
 https://www.geeksforgeeks.org/r-cnn-vs-fast-r-cnn-vs-faster-r-cnn-ml/
@@ -164,7 +88,7 @@ https://assets.researchsquare.com/files/rs-668895/v1_covered.pdf?c=1631875157
 YOLO vs Faster RCNN :
 https://everitt257.github.io/post/2018/08/10/object_detection.html
 
-Localisation Indoor Basé Sur La Détection Deep Learning
+Localisation Indoor Basé Sur La Détection Deep Learning :
 https://www.theses-algerie.com/2219104968597570/memoire-de-master/universite-mohamed-khider---biskra/localisation-indoor-bas%C3%A9-sur-la-d%C3%A9tection-deep-learning?size=n_10_n
 
 A highly efficient algorithm for fast motion detection and estimation using parallel processing :
