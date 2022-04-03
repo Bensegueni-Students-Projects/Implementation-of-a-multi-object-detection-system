@@ -62,13 +62,14 @@ https://machinelearningmastery.com/display-deep-learning-model-training-history-
 
 
 Optimizers :
-
+https://medium.com/mlearning-ai/optimizers-in-deep-learning-7bf81fed78a0
 
 Metrics :
-
+https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
 
 Hyper-parameters :
-
+https://towardsdatascience.com/parameters-and-hyperparameters-aa609601a9ac
+https://towardsdatascience.com/what-are-hyperparameters-and-how-to-tune-the-hyperparameters-in-a-deep-neural-network-d0604917584a
 
 Anchor boxes :
 https://towardsdatascience.com/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9
