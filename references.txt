@@ -77,6 +77,11 @@ https://towardsdatascience.com/anchor-boxes-the-key-to-quality-object-detection-
 Hyperas :
 https://github.com/maxpumperla/hyperas
 
+Popular Deep Learning Librairies :
+https://viso.ai/deep-learning/deep-learning-software/
+
+
+
 Comparing R-CNN models :
 https://indiantechwarrior.com/building-faster-r-cnn-on-tensorflow/
 
