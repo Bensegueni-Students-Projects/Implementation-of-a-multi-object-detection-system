@@ -113,3 +113,9 @@ end-to-end deep learning model :
 https://towardsdatascience.com/e2e-the-every-purpose-ml-method-5d4f20dafee4
 https://arxiv.org/ftp/arxiv/papers/1807/1807.10638.pdf
 https://mdpi-res.com/d_attachment/applsci/applsci-11-11520/article_deploy/applsci-11-11520.pdf
+
+TF Keras YOLOv4/v3/v2 Modelset :
+https://github.com/david8862/keras-YOLOv3-model-set
+
+SSD: Single-Shot MultiBox Detector implementation in Keras (VGG16) :
+https://github.com/pierluigiferrari/ssd_keras
