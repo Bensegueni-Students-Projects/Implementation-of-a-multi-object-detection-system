@@ -119,3 +119,11 @@ https://github.com/david8862/keras-YOLOv3-model-set
 
 SSD: Single-Shot MultiBox Detector implementation in Keras (VGG16) :
 https://github.com/pierluigiferrari/ssd_keras
+
+Distributed Learning :
+https://jafwin.com/2020/07/22/savoir-tout-sur-le-deep-learning-distribue/
+https://towardsdatascience.com/distributed-deep-learning-illustrated-6256e07a0468
+https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani.pdf
+https://arxiv.org/ftp/arxiv/papers/2007/2007.03970.pdf
+https://www.run.ai/guides/gpu-deep-learning/distributed-training
+
