@@ -127,3 +127,6 @@ https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/hedge_usmani
 https://arxiv.org/ftp/arxiv/papers/2007/2007.03970.pdf
 https://www.run.ai/guides/gpu-deep-learning/distributed-training
 
+https://www.ummto.dz/dspace/bitstream/handle/ummto/12857/TayebMhamed.pdf?sequence=1
+https://depot-e.uqtr.ca/id/eprint/9839/1/eprint9839.pdf
+http://archives.univ-biskra.dz/bitstream/123456789/14627/1/sellami_zineddine.pdf
