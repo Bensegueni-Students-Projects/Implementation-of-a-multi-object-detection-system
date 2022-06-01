@@ -126,115 +126,17 @@ def box_candidates(box1, box2, wh_thr=2, ar_thr=20, area_thr=0.1):  # box1(4,n),
 
 
 
-class Grid(object):
-    def __init__(self, d1, d2, rotate=360, ratio=0.5, mode=1, prob=1.):
-        self.d1 = d1
-        self.d2 = d2
-        self.rotate = rotate
-        self.ratio = ratio
-        self.mode=mode
-        self.st_prob = self.prob = prob
-
-    def set_prob(self, epoch, max_epoch):
-        self.prob = self.st_prob * min(1, epoch / max_epoch)
-
-    def __call__(self, img):
-        h = img.size[1]
-        w = img.size[0]
-
-        if np.random.rand() > self.prob:
-            return img, np.ones((h, w), np.float32)
-
-        # 1.5 * h, 1.5 * w works fine with the squared images
-        # But with rectangular input, the mask might not be able to recover back to the input image shape
-        # A square mask with edge length equal to the diagnoal of the input image
-        # will be able to cover all the image spot after the rotation. This is also the minimum square.
-        hh = math.ceil((math.sqrt(h*h + w*w)))
-
-        d = np.random.randint(self.d1, self.d2)
-        #d = self.d
-
-        # maybe use ceil? but i guess no big difference
-        self.l = math.ceil(d*self.ratio)
-
-        mask = np.ones((hh, hh), np.float32)
-        st_h = np.random.randint(d)
-        st_w = np.random.randint(d)
-        for i in range(-1, hh//d+1):
-                s = d*i + st_h
-                t = s+self.l
-                s = max(min(s, hh), 0)
-                t = max(min(t, hh), 0)
-                mask[s:t,:] *= 0
-        for i in range(-1, hh//d+1):
-                s = d*i + st_w
-                t = s+self.l
-                s = max(min(s, hh), 0)
-                t = max(min(t, hh), 0)
-                mask[:,s:t] *= 0
-        r = np.random.randint(self.rotate)
-        mask = Image.fromarray(np.uint8(mask))
-        mask = mask.rotate(r)
-        mask = np.asarray(mask)
-        mask = mask[(hh-h)//2:(hh-h)//2+h, (hh-w)//2:(hh-w)//2+w]
-
-        if self.mode == 1:
-            mask = 1-mask
-
-        #mask = mask.expand_as(img)
-        img = np.array(img) * np.expand_dims(mask, -1)
-
-        return Image.fromarray(img), mask
-
-
-
 def normalize_image(image):
-    """
-    normalize image array from 0 ~ 255
-    to 0.0 ~ 1.0
-
-    # Arguments
-        image: origin input image
-            numpy image array with dtype=float, 0.0 ~ 255.0
-
-    # Returns
-        image: numpy image array with dtype=float, 0.0 ~ 1.0
-    """
     image = image.astype(np.float32) / 255.0
-
     return image
 
 
 def denormalize_image(image):
-    """
-    Denormalize image array from 0.0 ~ 1.0
-    to 0 ~ 255
-
-    # Arguments
-        image: normalized image array with dtype=float, -1.0 ~ 1.0
-
-    # Returns
-        image: numpy image array with dtype=uint8, 0 ~ 255
-    """
     image = (image * 255.0).astype(np.uint8)
-
     return image
 
 
 def preprocess_image(image, model_input_shape):
-    """
-    Prepare model input image data with letterbox
-    resize, normalize and dim expansion
-
-    # Arguments
-        image: origin input image
-            PIL Image object containing image data
-        model_input_shape: model input image shape
-            tuple of format (height, width).
-
-    # Returns
-        image_data: numpy array of image data for model input.
-    """
     #resized_image = cv2.resize(image, model_input_shape[::-1], cv2.INTER_AREA)
     resized_image = letterbox_resize(image, model_input_shape[::-1])
     image_data = np.asarray(resized_image).astype('float32')
@@ -272,7 +174,7 @@ def draw_label(image, text, color, coords, label_type=labelType.LABEL_TOP_OUTSID
 
 
 
-def draw_boxes(image, boxes, classes, scores, class_names, colors, show_score=True):
+def draw_boxes(image, boxes, classes, scores, class_names, colors):
     if boxes is None or len(boxes) == 0:
         return image
     if classes is None or len(classes) == 0:
@@ -282,10 +184,7 @@ def draw_boxes(image, boxes, classes, scores, class_names, colors, show_score=Tr
         xmin, ymin, xmax, ymax = map(int, box)
 
         class_name = class_names[cls]
-        if show_score:
-            label = '{} {:.2f}'.format(class_name, score)
-        else:
-            label = '{}'.format(class_name)
+        label = '{} : {:.2f}%'.format(class_name, score*100)
         #print(label, (xmin, ymin), (xmax, ymax))
 
         # if no color info, use black(0,0,0)

@@ -212,14 +212,10 @@ def main():
                                      description='YOLO - Multi-object detection system - BENMOUUSSA & FELLAH')
     
     parser.add_argument(
-        "--image", nargs='?', type=str, required=False, default='',
-        help = "Image\Video input path"
-    )
+        "--image", nargs='?', type=str, required=False, default='', help = "Image input path")
     
     parser.add_argument(
-        "--video", nargs='?', type=str, required=False, default='0',
-        help = "Image\Video input path"
-    )
+        "--video", nargs='?', type=str, required=False, default='0', help = "Video input path")
     
     args = parser.parse_args()
     # get inference object

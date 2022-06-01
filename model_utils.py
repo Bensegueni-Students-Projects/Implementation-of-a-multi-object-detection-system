@@ -19,7 +19,6 @@ def compose(*funcs):
 
     Reference: https://mathieularose.com/function-composition-in-python/
     """
-    # return lambda x: reduce(lambda v, f: f(v), funcs, x)
     if funcs:
         return reduce(lambda f, g: lambda *a, **kw: g(f(*a, **kw)), funcs)
     else:
