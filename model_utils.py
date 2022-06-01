@@ -1,4 +1,5 @@
 ''' Model Construction Utils '''
+import tensorflow as tf
 from tensorflow.keras.layers import UpSampling2D, Concatenate
 from tensorflow.keras.models import Model
 
