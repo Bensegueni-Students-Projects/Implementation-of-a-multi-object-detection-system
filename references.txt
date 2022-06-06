@@ -130,3 +130,7 @@ https://www.run.ai/guides/gpu-deep-learning/distributed-training
 https://www.ummto.dz/dspace/bitstream/handle/ummto/12857/TayebMhamed.pdf?sequence=1
 https://depot-e.uqtr.ca/id/eprint/9839/1/eprint9839.pdf
 http://archives.univ-biskra.dz/bitstream/123456789/14627/1/sellami_zineddine.pdf
+
+
+Pascal VOC 2012 Dataset :
+http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
