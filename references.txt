@@ -134,3 +134,10 @@ http://archives.univ-biskra.dz/bitstream/123456789/14627/1/sellami_zineddine.pdf
 
 Pascal VOC 2012 Dataset :
 http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
+
+Dataset Conversion to TFRecord :
+https://github.com/allanzelener/YAD2K/blob/master/voc_conversion_scripts/
+https://chowdera.com/2021/04/20210426230437467k.html
+
+Customizing Dataset :
+https://luminoth.readthedocs.io/en/latest/usage/dataset.html
