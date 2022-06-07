@@ -141,3 +141,6 @@ https://chowdera.com/2021/04/20210426230437467k.html
 
 Customizing Dataset :
 https://luminoth.readthedocs.io/en/latest/usage/dataset.html
+
+Convert TF/Keras Model to TFLite Model :
+https://www.tensorflow.org/lite/models/convert
