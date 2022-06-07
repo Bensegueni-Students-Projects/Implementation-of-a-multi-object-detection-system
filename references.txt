@@ -144,3 +144,6 @@ https://luminoth.readthedocs.io/en/latest/usage/dataset.html
 
 Convert TF/Keras Model to TFLite Model :
 https://www.tensorflow.org/lite/models/convert
+
+Installing Tensorflow Lite and Comparing performance using TF and TFlite on RPi :
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
