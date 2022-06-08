@@ -147,3 +147,4 @@ https://www.tensorflow.org/lite/models/convert
 
 Installing Tensorflow Lite and Comparing performance using TF and TFlite on RPi :
 https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
+https://pimylifeup.com/raspberry-pi-tensorflow-lite/
