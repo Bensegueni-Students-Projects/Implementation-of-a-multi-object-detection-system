@@ -153,3 +153,8 @@ Object Detection Metrics :
 https://towardsdatascience.com/evaluating-performance-of-an-object-detection-model-137a349c517b
 https://www.govinfo.gov/content/pkg/GOVPUB-C13-a52a74766ab7f0f45eaa6be1df5cb85e/pdf/GOVPUB-C13-a52a74766ab7f0f45eaa6be1df5cb85e.pdf
 https://github.com/Adamdad/Object-Detection-Metrics
+
+CIFAR 10 :
+https://www.kaggle.com/code/mielek/data-augmentation-with-keras-using-cifar-10/notebook
+https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/
+https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
